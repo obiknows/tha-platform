@@ -1,0 +1,18 @@
+{
+  "name": "tha-platform",
+  "version": "0.0.1",
+  "description": "the obi knows platform",
+  "main": "index.js",
+  "repository": "https://github.com/obiknows/tha-platform.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^4.2.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
