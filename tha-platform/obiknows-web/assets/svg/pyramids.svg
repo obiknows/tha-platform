@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="309px" height="220px" viewBox="0 0 309 220" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>pyramids</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-45.000000, -142.000000)">
+        <g id="pyramids" transform="translate(45.000000, 142.000000)" stroke-width="10">
+            <path d="M196.5,28.0016662 L86.5971151,218.5 L306.402885,218.5 L196.5,28.0016662 Z" id="smaller-pyramid" stroke="#FFCB00"></path>
+            <path d="M128,2.98273843 L2.60813872,218.5 L253.391861,218.5 L128,2.98273843 Z" id="big-pyramid" stroke="#222222"></path>
+        </g>
+    </g>
+</svg>
