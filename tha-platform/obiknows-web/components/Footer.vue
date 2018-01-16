@@ -1,5 +1,5 @@
 <template>
   <footer>
-    Visit our website for more documentation : <a href="https://nuxtjs.org" target="_blank">nuxtjs.org</a>
+    Made with 💛 by <a href="https://nerdwave.net" target="_blank">Obinna</a>
   </footer>
 </template>
