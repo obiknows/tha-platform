@@ -3,11 +3,11 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'starter',
+    title: 'obi knows',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Nuxt.js project' }
+      { hid: 'description', name: 'description', content: 'an obi knows project' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
@@ -16,7 +16,7 @@ module.exports = {
   /*
   ** Global CSS
   */
-  css: ['~/assets/css/main.css'],
+  css: ['~/assets/css/main.css','~/assets/css/tachyons.min.css'],
   /*
   ** Add axios globally
   */
