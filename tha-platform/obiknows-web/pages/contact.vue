@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <h1 class="title">
-      FOOD
+      Contact
     </h1>
     <ul class="users">
       <li v-for="(user, index) in users" :key="index" class="user">
@@ -17,14 +17,14 @@
 import axios from '~/plugins/axios'
 
 export default {
-  name: 'The Food Page',
+  name: 'The-Contact-Page',
   async asyncData () {
     let { data } = await axios.get('/api/users')
     return { users: data }
   },
   head () {
     return {
-      title: 'Food'
+      title: 'Contact'
     }
   }
 }
