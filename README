@@ -1,0 +1,22 @@
+the obi knows platform
+======================
+
+whats good yall. ima try my hand out at building a platform
+
+# the arche
+
+look, this how its goin down:
+
+- web: [NUXT.js]
+- webframework: [Adonis]
+- data: [Redis]
+
+- dev/env: [Docker Compose]
+- management: [Rancher]
+
+
+aight thats the plan and we stickin to it.
+
+lets grow this thing.
+
+
