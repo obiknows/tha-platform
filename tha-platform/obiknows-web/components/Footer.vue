@@ -1,5 +1,6 @@
 <template>
   <footer>
-    Made with 💛 by <a href="https://nerdwave.net" target="_blank">Obinna</a>
+    by <a class="link" href="https://nerdwave.net" target="_blank">Obinna</a>,
+    with 💛
   </footer>
 </template>
